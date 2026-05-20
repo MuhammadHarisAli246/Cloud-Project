@@ -348,5 +348,36 @@
     "resolved": false,
     "satisfaction_score": null,
     "metadata": {}
+  },
+  "2dc1499663e5db58": {
+    "student_id": null,
+    "started_at": "2026-05-20T14:24:22.796396",
+    "messages": [],
+    "department_routed": null,
+    "resolved": false,
+    "satisfaction_score": null,
+    "metadata": {}
+  },
+  "9eea729849f6e1c4": {
+    "student_id": null,
+    "started_at": "2026-05-20T14:24:42.356031",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Where is the OS Lab?",
+        "timestamp": "2026-05-20T14:25:09.055963",
+        "metadata": {}
+      },
+      {
+        "role": "assistant",
+        "content": "The Operating Systems Lab (OS Lab) is located in Lec Hall 210, which is a computer lab at Salim Habib University. Despite the name \"Lec Hall,\" room 210 is used exclusively as a computer lab.",
+        "timestamp": "2026-05-20T14:25:11.630525",
+        "metadata": {}
+      }
+    ],
+    "department_routed": null,
+    "resolved": false,
+    "satisfaction_score": null,
+    "metadata": {}
   }
 }

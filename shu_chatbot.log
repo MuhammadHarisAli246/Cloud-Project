@@ -279,3 +279,17 @@
 2026-05-19 13:08:56,987 - SHU_Chatbot - INFO - Executing task: Incoming PDF Folder Watcher
 2026-05-19 13:09:56,993 - SHU_Chatbot - INFO - Executing task: Incoming PDF Folder Watcher
 2026-05-19 13:10:57,004 - SHU_Chatbot - INFO - Executing task: Incoming PDF Folder Watcher
+2026-05-20 14:24:19,202 - SHU_Chatbot - WARNING - AWS credentials not found. Bedrock disabled.
+2026-05-20 14:24:19,206 - SHU_Chatbot - INFO - Automation scheduler started
+2026-05-20 14:24:40,595 - SHU_Chatbot - WARNING - AWS credentials not found. Bedrock disabled.
+2026-05-20 14:24:40,597 - SHU_Chatbot - INFO - Automation scheduler started
+2026-05-20 14:24:59,581 - SHU_Chatbot - WARNING - AWS credentials not found. Bedrock disabled.
+2026-05-20 14:25:03,967 - SHU_Chatbot - WARNING - AWS credentials not found. Bedrock disabled.
+2026-05-20 14:25:07,768 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-20 14:25:08,616 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-20 14:25:09,038 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-20 14:25:10,993 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-20 14:25:15,915 - SHU_Chatbot - WARNING - AWS credentials not found. Bedrock disabled.
+2026-05-20 14:25:19,207 - SHU_Chatbot - INFO - Executing task: Incoming PDF Folder Watcher
+2026-05-20 14:25:40,598 - SHU_Chatbot - INFO - Executing task: Incoming PDF Folder Watcher
+2026-05-20 14:26:19,213 - SHU_Chatbot - INFO - Executing task: Incoming PDF Folder Watcher
